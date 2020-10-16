@@ -1,3 +1,22 @@
+.navbar {
+    margin: 20px;
+    background-image: url("dot-grid.png");
+    color: black;
+    margin: 20px;
+    border: 10px double gold;
+    padding: 20px;
+
+
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
 body {
     background-image: url("dot-grid.png");
     font-family: Arial, Helvetica, sans-serif;
@@ -6,5 +25,26 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    /* margin: 20px;
+      border: 10px double gold;
+      padding: 20px; */
+  }
+
+  #nasty {
+      margin: 20px;
+      margin-top: 100px;;
+      border: 5px solid gold;
+      border-style: solid;
+      padding: 20px;
+  }
+
+  .d-block {
+      max-width: 400px;
+      max-height: 400px;
+      margin-left: auto;
+      margin-right: auto;
   }
   
+  #firstHomeDiv {
+      text-align: center;
+  }
