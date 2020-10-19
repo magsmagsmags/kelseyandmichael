@@ -3,8 +3,9 @@
     background-image: url("dot-grid.png");
     color: black;
     margin: 20px;
-    border: 10px double gold;
+    border: 10px double #e0d794;
     padding: 20px;
+    font-family: 'Athiti', sans-serif;
 
 
 }
@@ -33,9 +34,10 @@ body {
   #nasty {
       margin: 20px;
       margin-top: 100px;;
-      border: 5px solid gold;
-      border-style: solid;
+      border: 10px double #e0d794;
+      /* border-style: solid; */
       padding: 20px;
+      font-family: 'Athiti', sans-serif;
   }
 
   .d-block {
@@ -47,4 +49,5 @@ body {
   
   #firstHomeDiv {
       text-align: center;
+      font-family: 'Athiti', sans-serif;
   }
